@@ -1,0 +1,1 @@
+This repository contains exercises from LemonCode's Back-en bootcamp. The first exercise creates a method that writes a message in Azure Storage queue whenever a hero is deleted. The second creates a queue processor that handles messages and deletes the correct images in storage.
